@@ -144,33 +144,32 @@
     "startedAt": "2020-09-10T00:00:00.000Z"
   },
   {
-    "title": "The Genesis Machine",
+    "title": "The Age of Surveillance Capitalism",
     "authors": [
-      "Amy Webb",
-      "Andrew Hessel"
+      "Shoshana Zuboff"
     ],
     "publisher": "PublicAffairs",
-    "publishedDate": "2022-02-15",
-    "description": "The next frontier in technology is inside our own bodies. Synthetic biology will revolutionize how we define family, how we identify disease and treat aging, where we make our homes, and how we nourish ourselves. This fast-growing field—which uses computers to modify or rewrite genetic code—has created revolutionary, groundbreaking solutions such as the mRNA COVID vaccines, IVF, and lab-grown hamburger that tastes like the real thing. It gives us options to deal with existential threats: climate change, food insecurity, and access to fuel. But there are significant risks. Who should decide how to engineer living organisms? Whether engineered organisms should be planted, farmed, and released into the wild? Should there be limits to human enhancements? What cyber-biological risks are looming? Could a future biological war, using engineered organisms, cause a mass extinction event? Amy Webb and Andrew Hessel’s riveting examination of synthetic biology and the bioeconomy provide the background for thinking through the upcoming risks and moral dilemmas posed by redesigning life, as well as the vast opportunities waiting for us on the horizon.",
-    "image": "http://books.google.com/books/content?id=nBQyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publishedDate": "2019-01-15",
+    "description": "The challenges to humanity posed by the digital future, the first detailed examination of the unprecedented form of power called \"surveillance capitalism,\" and the quest by powerful corporations to predict and control our behavior. In this masterwork of original thinking and research, Shoshana Zuboff provides startling insights into the phenomenon that she has named surveillance capitalism. The stakes could not be higher: a global architecture of behavior modification threatens human nature in the twenty-first century just as industrial capitalism disfigured the natural world in the twentieth. Zuboff vividly brings to life the consequences as surveillance capitalism advances from Silicon Valley into every economic sector. Vast wealth and power are accumulated in ominous new \"behavioral futures markets,\" where predictions about our behavior are bought and sold, and the production of goods and services is subordinated to a new \"means of behavioral modification.\" The threat has shifted from a totalitarian Big Brother state to a ubiquitous digital architecture: a \"Big Other\" operating in the interests of surveillance capital. Here is the crucible of an unprecedented form of power marked by extreme concentrations of knowledge and free from democratic oversight. Zuboff's comprehensive and moving analysis lays bare the threats to twenty-first century society: a controlled \"hive\" of total connection that seduces with promises of total certainty for maximum profit -- at the expense of democracy, freedom, and our human future. With little resistance from law or society, surveillance capitalism is on the verge of dominating the social order and shaping the digital future -- if we let it.",
+    "image": "http://books.google.com/books/content?id=lRqrDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "averageRating": 4,
+    "averageRating": 5,
     "ratingsCount": 1,
     "categories": [
-      "Science"
+      "Business & Economics"
     ],
-    "pageCount": 368,
-    "isbn10": "1541797930",
-    "isbn13": "9781541797932",
+    "pageCount": 704,
+    "isbn10": "1610395700",
+    "isbn13": "9781610395700",
     "googleBooks": {
-      "id": "nBQyEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=nBQyEAAAQBAJ&pg=PP1&dq=intitle:+The+Age+of+Surveillance+Capitalism:+The+Fight+for+a+Human+Future+at+the+New+Frontier+of+Power+by+Shoshana+Zuboff&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=nBQyEAAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=nBQyEAAAQBAJ"
+      "id": "lRqrDQAAQBAJ",
+      "preview": "http://books.google.com/books?id=lRqrDQAAQBAJ&printsec=frontcover&dq=intitle:The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=lRqrDQAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=lRqrDQAAQBAJ"
     },
-    "issueNumber": 10,
+    "issueNumber": 11,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2020-03-01T00:00:00.000Z"
+    "state": "want-to-read",
+    "startedAt": "2020-02-21T00:00:00.000Z"
   }
 ]
