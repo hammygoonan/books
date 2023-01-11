@@ -1,5 +1,32 @@
 [
   {
+    "title": "Twelve Years a Slave",
+    "authors": [
+      "Solomon Northup"
+    ],
+    "publisher": "Prabhat Prakashan",
+    "publishedDate": "2021-01-01",
+    "description": "\"Having been born a freeman, and for more than thirty years enjoyed the blessings of liberty in a free State—and having at the end of that time been kidnapped and sold into Slavery, where I remained, until happily rescued in the month of January, 1853, after a bondage of twelve years—it has been suggested that an account of my life and fortunes would not be uninteresting to the public.\" -an excerpt",
+    "image": "http://books.google.com/books/content?id=DLmgDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 2,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 189,
+    "googleBooks": {
+      "id": "DLmgDgAAQBAJ",
+      "preview": "http://books.google.com/books?id=DLmgDgAAQBAJ&printsec=frontcover&dq=intitle:+Austerity:+The+History+of+a+Dangerous+Idea+by+Mark+Blyth&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=DLmgDgAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=DLmgDgAAQBAJ"
+    },
+    "issueNumber": 3,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2023-01-11T10:48:58.000Z"
+  },
+  {
     "title": "Clean Code",
     "authors": [
       "Robert C. Martin"

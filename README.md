@@ -19,6 +19,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 
 [![Book cover of Austerity](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DH_8TDAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/1 "Austerity by Mark Blyth completed in 8 hours on January 2023")
 
+### ⏭️ Want to Read (1)
+
+[![Book cover of Twelve Years a Slave](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DDLmgDgAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/3 "Twelve Years a Slave by Solomon Northup completed in undefined on Invalid Date")
+
 <!--end:bookshelf-action-->
 
 ## 📄 License
