@@ -224,5 +224,32 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2019-03-25T00:00:00.000Z"
+  },
+  {
+    "title": "Practice",
+    "authors": [
+      "Guy Rundle"
+    ],
+    "publisher": "Black Incorporated",
+    "publishedDate": "2019-03-05",
+    "description": "Known for his wild wit and irreverent commentary, Guy Rundle is one of Australia's most virtuosic minds. Practicedistils his best writing on politics, culture, class and more. In it, Rundle roves the campaign trails of Obama, Palin and Trump; rides the Amtrak around a desolate America; bails up Bob Katter and Pauline Hanson; and excavates the deeper meanings of True Detective and Joy Division. Insightful and hilarious, Practicereveals Rundle as among Australia's sharpest and most entertaining minds, with a genuinely awe-inducing range and an utterly inimitable voice. There is only one Guy Rundle.",
+    "image": "http://books.google.com/books/content?id=VHaSvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Political Science"
+    ],
+    "pageCount": 382,
+    "isbn10": "1760641316",
+    "isbn13": "9781760641313",
+    "googleBooks": {
+      "id": "VHaSvQEACAAJ",
+      "preview": "http://books.google.com/books?id=VHaSvQEACAAJ&dq=intitle:Practice+by+Guy+Rundle&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=VHaSvQEACAAJ&dq=intitle:Practice+by+Guy+Rundle&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Practice.html?hl=&id=VHaSvQEACAAJ"
+    },
+    "issueNumber": 14,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2019-02-06T00:00:00.000Z"
   }
 ]
