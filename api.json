@@ -254,7 +254,10 @@
     },
     "issueNumber": 14,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2019-02-06T00:00:00.000Z"
+    "state": "completed",
+    "startedAt": "2019-02-06T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 32918400000,
+    "timeToCompleteFormatted": "1 year"
   }
 ]
