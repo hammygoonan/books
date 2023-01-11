@@ -196,7 +196,33 @@
     },
     "issueNumber": 12,
     "progressPercent": 0,
-    "state": "reading",
+    "state": "want-to-read",
     "startedAt": "2019-11-13T00:00:00.000Z"
+  },
+  {
+    "title": "Dark Emu",
+    "authors": [
+      "Bruce Pascoe"
+    ],
+    "publisher": "Magabala Books",
+    "publishedDate": "2018-06-01",
+    "description": "‘Dark Emu injects a profound authenticity into the conversation about how we Australians understand our continent ... [It is] essential reading for anyone who wants to understand what Australia once was, or what it might yet be if we heed the lessons of long and sophisticated human occupation.’ Judges for 2016 NSW Premier’s Literary Awards Dark Emu puts forward an argument for a reconsideration of the hunter-gatherer tag for pre-colonial Aboriginal Australians. The evidence insists that Aboriginal people right across the continent were using domesticated plants, sowing, harvesting, irrigating, and storing — behaviours inconsistent with the hunter-gatherer tag. Gerritsen and Gammage in their latest books support this premise but Pascoe takes this further and challenges the hunter-gatherer tag as a convenient lie. Almost all the evidence in Dark Emu comes from the records and diaries of the Australian explorers, impeccable sources. Bruce’s comments on his book compared to Gammage’s: “ My book is about food production, housing construction and clothing, whereas Gammage was interested in the appearance of the country at contact. [Gammage] doesn’t contest hunter gatherer labels either, whereas that is at the centre of my argument.”",
+    "image": "http://books.google.com/books/content?id=6iZuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 8,
+    "pageCount": 288,
+    "isbn10": "1925768953",
+    "isbn13": "9781925768954",
+    "googleBooks": {
+      "id": "6iZuDwAAQBAJ",
+      "preview": "http://books.google.com/books?id=6iZuDwAAQBAJ&pg=PT173&dq=intitle:Dark+Emu+by+Bruce+Pascoe+(100%25)&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=6iZuDwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=6iZuDwAAQBAJ"
+    },
+    "issueNumber": 13,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2019-03-25T00:00:00.000Z"
   }
 ]
