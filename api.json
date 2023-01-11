@@ -1,5 +1,32 @@
 [
   {
+    "title": "Tropic of Cancer",
+    "authors": [
+      "Henry Miller"
+    ],
+    "publisher": "Miller, Henry",
+    "publishedDate": "1961",
+    "description": "The account of a young writer and his friends in free-wheeling Paris.",
+    "image": "http://books.google.com/books/content?id=G54FAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 3,
+    "ratingsCount": 45,
+    "categories": [
+      "Fiction"
+    ],
+    "pageCount": 360,
+    "googleBooks": {
+      "id": "G54FAQAAIAAJ",
+      "preview": "http://books.google.com/books?id=G54FAQAAIAAJ&q=intitle:Tropic+of+Cancer+by+Henry+Miller&dq=intitle:Tropic+of+Cancer+by+Henry+Miller&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=G54FAQAAIAAJ&dq=intitle:Tropic+of+Cancer+by+Henry+Miller&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Tropic_of_Cancer.html?hl=&id=G54FAQAAIAAJ"
+    },
+    "issueNumber": 5,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2023-01-11T10:53:59.000Z"
+  },
+  {
     "title": "Austerity",
     "authors": [
       "Mark Blyth"
