@@ -171,5 +171,32 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2020-02-21T00:00:00.000Z"
+  },
+  {
+    "title": "Farmers Or Hunter-Gatherers?",
+    "authors": [
+      "Peter Sutton",
+      "Keryn Walshe"
+    ],
+    "publishedDate": "2021-06-16",
+    "description": "\"An authoritative study of pre-colonial Australia that dismantles and reframes popular narratives of First Nations land management and food production. Australians' understanding of Aboriginal society prior to the British invasion from 1788 has been transformed since the publication of Bruce Pascoe's Dark Emu in 2014. It argued that classical Aboriginal society was more sophisticated than Australians had been led to believe because it resembled more closely the farming communities of Europe. In Farmers or Hunter-gatherers? Peter Sutton and Keryn Walshe ask why Australians have been so receptive to the notion that farming represents an advance from hunting and gathering. Drawing on the knowledge of Aboriginal elders, previously not included within this discussion, and decades of anthropological scholarship, Sutton and Walshe provide extensive evidence to support their argument that classical Aboriginal society was a hunter-gatherer society and as sophisticated as the traditional European farming methods. 'Farmers or Hunter-gatherers?' asks Australians to develop a deeper understanding and appreciation of Aboriginal society and culture\"--Publisher's description.",
+    "image": "http://books.google.com/books/content?id=j7UnzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Aboriginal Australians"
+    ],
+    "pageCount": 264,
+    "isbn10": "0522877850",
+    "isbn13": "9780522877854",
+    "googleBooks": {
+      "id": "j7UnzgEACAAJ",
+      "preview": "http://books.google.com/books?id=j7UnzgEACAAJ&dq=intitle:Farmers+or+Hunter-gatherers%3F+The+Dark+Emu+debate&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=j7UnzgEACAAJ&dq=intitle:Farmers+or+Hunter-gatherers%3F+The+Dark+Emu+debate&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Farmers_Or_Hunter_Gatherers.html?hl=&id=j7UnzgEACAAJ"
+    },
+    "issueNumber": 12,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2019-11-13T00:00:00.000Z"
   }
 ]

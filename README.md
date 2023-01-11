@@ -11,9 +11,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (1)
+### ⌛ Currently reading (2)
 
-[![Book cover of Clean Code](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DhjEFCAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/2 "Clean Code by Robert C. Martin")### ⏭️ Want to Read (5)
+[![Book cover of Clean Code](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DhjEFCAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/2 "Clean Code by Robert C. Martin")
+[![Book cover of Farmers Or Hunter-Gatherers?](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3Dj7UnzgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/12 "Farmers Or Hunter-Gatherers? by Peter Sutton, Keryn Walshe")### ⏭️ Want to Read (5)
 
 [![Book cover of Age of Anger](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DqejZDQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/6 "Age of Anger by Pankaj Mishra completed in undefined on Invalid Date")
 [![Book cover of Tropic of Cancer](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DG54FAQAAIAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/5 "Tropic of Cancer by Henry Miller completed in undefined on Invalid Date")
