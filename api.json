@@ -141,5 +141,35 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2023-01-11T02:50:57.000Z"
+  },
+  {
+    "title": "Domain-driven Design",
+    "authors": [
+      "Eric Evans",
+      "Eric J. Evans"
+    ],
+    "publisher": "Addison-Wesley Professional",
+    "publishedDate": "2004",
+    "description": "Describes ways to incorporate domain modeling into software development.",
+    "image": "http://books.google.com/books/content?id=xColAAPGubgC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 6,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 563,
+    "isbn10": "0321125215",
+    "isbn13": "9780321125217",
+    "googleBooks": {
+      "id": "xColAAPGubgC",
+      "preview": "http://books.google.com/books?id=xColAAPGubgC&printsec=frontcover&dq=intitle:Domain-driven+Design+by+Eric+Evans&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=xColAAPGubgC&dq=intitle:Domain-driven+Design+by+Eric+Evans&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Domain_driven_Design.html?hl=&id=xColAAPGubgC"
+    },
+    "issueNumber": 9,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2020-09-10T00:00:00.000Z"
   }
 ]
