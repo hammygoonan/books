@@ -1,34 +1,5 @@
 [
   {
-    "title": "Ten Arguments for Deleting Your Social Media Accounts Right Now",
-    "authors": [
-      "Jaron Lanier"
-    ],
-    "publisher": "Henry Holt",
-    "publishedDate": "2018-05-29",
-    "description": "\"You might have trouble imagining life without your social media accounts, but virtual reality pioneer Jaron Lanier insists that we're better off without them. In Ten Arguments for Deleting Your Social Media Accounts Right Now, Lanier, who participates in no social media, offers powerful and personal reasons for all of us to leave these dangerous online platforms\"--",
-    "image": "http://books.google.com/books/content?id=e65YDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 3.5,
-    "ratingsCount": 6,
-    "categories": [
-      "Computers"
-    ],
-    "pageCount": 160,
-    "isbn10": "125019668X",
-    "isbn13": "9781250196682",
-    "googleBooks": {
-      "id": "e65YDwAAQBAJ",
-      "preview": "http://books.google.com/books?id=e65YDwAAQBAJ&pg=PP1&dq=intitle:+The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&hl=&cd=2&source=gbs_api",
-      "info": "http://books.google.com/books?id=e65YDwAAQBAJ&dq=intitle:+The+Age+of+Surveillance+Capitalism+by+Shoshana+Zuboff&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Ten_Arguments_for_Deleting_Your_Social_M.html?hl=&id=e65YDwAAQBAJ"
-    },
-    "issueNumber": 7,
-    "progressPercent": 0,
-    "state": "want-to-read",
-    "startedAt": "2023-01-11T10:57:14.000Z"
-  },
-  {
     "title": "Age of Anger",
     "authors": [
       "Pankaj Mishra"
@@ -171,5 +142,35 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2020-09-10T00:00:00.000Z"
+  },
+  {
+    "title": "The Genesis Machine",
+    "authors": [
+      "Amy Webb",
+      "Andrew Hessel"
+    ],
+    "publisher": "PublicAffairs",
+    "publishedDate": "2022-02-15",
+    "description": "The next frontier in technology is inside our own bodies. Synthetic biology will revolutionize how we define family, how we identify disease and treat aging, where we make our homes, and how we nourish ourselves. This fast-growing field—which uses computers to modify or rewrite genetic code—has created revolutionary, groundbreaking solutions such as the mRNA COVID vaccines, IVF, and lab-grown hamburger that tastes like the real thing. It gives us options to deal with existential threats: climate change, food insecurity, and access to fuel. But there are significant risks. Who should decide how to engineer living organisms? Whether engineered organisms should be planted, farmed, and released into the wild? Should there be limits to human enhancements? What cyber-biological risks are looming? Could a future biological war, using engineered organisms, cause a mass extinction event? Amy Webb and Andrew Hessel’s riveting examination of synthetic biology and the bioeconomy provide the background for thinking through the upcoming risks and moral dilemmas posed by redesigning life, as well as the vast opportunities waiting for us on the horizon.",
+    "image": "http://books.google.com/books/content?id=nBQyEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 1,
+    "categories": [
+      "Science"
+    ],
+    "pageCount": 368,
+    "isbn10": "1541797930",
+    "isbn13": "9781541797932",
+    "googleBooks": {
+      "id": "nBQyEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=nBQyEAAAQBAJ&pg=PP1&dq=intitle:+The+Age+of+Surveillance+Capitalism:+The+Fight+for+a+Human+Future+at+the+New+Frontier+of+Power+by+Shoshana+Zuboff&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=nBQyEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=nBQyEAAAQBAJ"
+    },
+    "issueNumber": 10,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2020-03-01T00:00:00.000Z"
   }
 ]
