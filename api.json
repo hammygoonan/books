@@ -27,5 +27,37 @@
     "progressPercent": 0,
     "state": "reading",
     "startedAt": "2023-01-11T02:50:57.000Z"
+  },
+  {
+    "title": "Austerity",
+    "authors": [
+      "Mark Blyth"
+    ],
+    "publisher": "Oxford University Press",
+    "publishedDate": "2015",
+    "description": "Selected as a Financial Times Best Book of 2013 Governments today in both Europe and the United States have succeeded in casting government spending as reckless wastefulness that has made the economy worse. In contrast, they have advanced a policy of draconian budget cuts--austerity--to solve the financial crisis. We are told that we have all lived beyond our means and now need to tighten our belts. This view conveniently forgets where all that debt came from. Not from an orgy of government spending, but as the direct result of bailing out, recapitalizing, and adding liquidity to the broken banking system. Through these actions private debt was rechristened as government debt while those responsible for generating it walked away scot free, placing the blame on the state, and the burden on the taxpayer. That burden now takes the form of a global turn to austerity, the policy of reducing domestic wages and prices to restore competitiveness and balance the budget. The problem, according to political economist Mark Blyth, is that austerity is a very dangerous idea. First of all, it doesn't work. As the past four years and countless historical examples from the last 100 years show, while it makes sense for any one state to try and cut its way to growth, it simply cannot work when all states try it simultaneously: all we do is shrink the economy. In the worst case, austerity policies worsened the Great Depression and created the conditions for seizures of power by the forces responsible for the Second World War: the Nazis and the Japanese military establishment. As Blyth amply demonstrates, the arguments for austerity are tenuous and the evidence thin. Rather than expanding growth and opportunity, the repeated revival of this dead economic idea has almost always led to low growth along with increases in wealth and income inequality. Austerity demolishes the conventional wisdom, marshaling an army of facts to demand that we austerity for what it is, and what it costs us.",
+    "image": "http://books.google.com/books/content?id=H_8TDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3.5,
+    "ratingsCount": 13,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 305,
+    "isbn10": "0199389446",
+    "isbn13": "9780199389445",
+    "googleBooks": {
+      "id": "H_8TDAAAQBAJ",
+      "preview": "http://books.google.com/books?id=H_8TDAAAQBAJ&printsec=frontcover&dq=intitle:Austerity:+The+History+of+a+Dangerous+Idea+by+Mark+Blyth&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=H_8TDAAAQBAJ&dq=intitle:Austerity:+The+History+of+a+Dangerous+Idea+by+Mark+Blyth&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Austerity.html?hl=&id=H_8TDAAAQBAJ"
+    },
+    "issueNumber": 1,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2023-01-11T02:46:27.000Z",
+    "completedAt": "2023-01-11T10:48:26.000Z",
+    "timeToComplete": 28919000,
+    "timeToCompleteFormatted": "8 hours"
   }
 ]
