@@ -204,26 +204,31 @@
     "authors": [
       "Bruce Pascoe"
     ],
-    "publisher": "Magabala Books",
-    "publishedDate": "2018-06-01",
-    "description": "‘Dark Emu injects a profound authenticity into the conversation about how we Australians understand our continent ... [It is] essential reading for anyone who wants to understand what Australia once was, or what it might yet be if we heed the lessons of long and sophisticated human occupation.’ Judges for 2016 NSW Premier’s Literary Awards Dark Emu puts forward an argument for a reconsideration of the hunter-gatherer tag for pre-colonial Aboriginal Australians. The evidence insists that Aboriginal people right across the continent were using domesticated plants, sowing, harvesting, irrigating, and storing — behaviours inconsistent with the hunter-gatherer tag. Gerritsen and Gammage in their latest books support this premise but Pascoe takes this further and challenges the hunter-gatherer tag as a convenient lie. Almost all the evidence in Dark Emu comes from the records and diaries of the Australian explorers, impeccable sources. Bruce’s comments on his book compared to Gammage’s: “ My book is about food production, housing construction and clothing, whereas Gammage was interested in the appearance of the country at contact. [Gammage] doesn’t contest hunter gatherer labels either, whereas that is at the centre of my argument.”",
-    "image": "http://books.google.com/books/content?id=6iZuDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publishedDate": "2018",
+    "description": "Dark Emu argues for a reconsideration of the 'hunter-gatherer' tag for pre-colonial Aboriginal Australians and attempts to rebut the colonial myths that have worked to justify dispossession. Accomplished author Bruce Pascoe provides compelling evidence from the diaries of early explorers that suggests that systems of food production and land management have been blatantly understated in modern retellings of early Aboriginal history, and that a new look at Australia's past is required.",
+    "image": "https://tse2.mm.bing.net/th?q=Dark%20Emu%20by%20Bruce%20Pascoe&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
     "language": "en",
     "averageRating": 4,
     "ratingsCount": 8,
-    "pageCount": 288,
-    "isbn10": "1925768953",
-    "isbn13": "9781925768954",
+    "categories": [
+      "Aboriginal Australians"
+    ],
+    "pageCount": 309,
+    "isbn10": "0369332873",
+    "isbn13": "9780369332875",
     "googleBooks": {
-      "id": "6iZuDwAAQBAJ",
-      "preview": "http://books.google.com/books?id=6iZuDwAAQBAJ&pg=PT173&dq=intitle:Dark+Emu+by+Bruce+Pascoe+(100%25)&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=6iZuDwAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=6iZuDwAAQBAJ"
+      "id": "spWjzQEACAAJ",
+      "preview": "http://books.google.com/books?id=spWjzQEACAAJ&dq=intitle:Dark+Emu+by+Bruce+Pascoe&hl=&cd=3&source=gbs_api",
+      "info": "http://books.google.com/books?id=spWjzQEACAAJ&dq=intitle:Dark+Emu+by+Bruce+Pascoe&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Dark_Emu.html?hl=&id=spWjzQEACAAJ"
     },
     "issueNumber": 13,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2019-03-25T00:00:00.000Z"
+    "state": "completed",
+    "startedAt": "2019-03-25T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 28857600000,
+    "timeToCompleteFormatted": "10 months"
   },
   {
     "title": "Practice",
