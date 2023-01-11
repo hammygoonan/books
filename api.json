@@ -1,5 +1,34 @@
 [
   {
+    "title": "Age of Anger",
+    "authors": [
+      "Pankaj Mishra"
+    ],
+    "publisher": "Macmillan",
+    "publishedDate": "2017-02-07",
+    "description": "A New York Times Notable Book of 2017 • Named a Best Book of the Year by Slate and NPR • Longlisted for the Orwell Prize One of our most important public intellectuals reveals the hidden history of our current global crisis How can we explain the origins of the great wave of paranoid hatreds that seem inescapable in our close-knit world—from American shooters and ISIS to Donald Trump, from a rise in vengeful nationalism across the world to racism and misogyny on social media? In Age of Anger, Pankaj Mishra answers our bewilderment by casting his gaze back to the eighteenth century before leading us to the present. He shows that as the world became modern, those who were unable to enjoy its promises—of freedom, stability, and prosperity—were increasingly susceptible to demagogues. The many who came late to this new world—or were left, or pushed, behind—reacted in horrifyingly similar ways: with intense hatred of invented enemies, attempts to re-create an imaginary golden age, and self-empowerment through spectacular violence. It was from among the ranks of the disaffected that the militants of the nineteenth century arose—angry young men who became cultural nationalists in Germany, messianic revolutionaries in Russia, bellicose chauvinists in Italy, and anarchist terrorists internationally. Today, just as then, the wide embrace of mass politics and technology and the pursuit of wealth and individualism have cast many more billions adrift in a demoralized world, uprooted from tradition but still far from modernity—with the same terrible results. Making startling connections and comparisons, Age of Anger is a book of immense urgency and profound argument. It is a history of our present predicament unlike any other.",
+    "image": "http://books.google.com/books/content?id=qejZDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3,
+    "ratingsCount": 4,
+    "categories": [
+      "HISTORY"
+    ],
+    "pageCount": 417,
+    "isbn10": "0374274789",
+    "isbn13": "9780374274788",
+    "googleBooks": {
+      "id": "qejZDQAAQBAJ",
+      "preview": "http://books.google.com/books?id=qejZDQAAQBAJ&printsec=frontcover&dq=intitle:Age+of+Anger+by+Pankaj+Mishra&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=qejZDQAAQBAJ&dq=intitle:Age+of+Anger+by+Pankaj+Mishra&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Age_of_Anger.html?hl=&id=qejZDQAAQBAJ"
+    },
+    "issueNumber": 6,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2023-01-11T10:56:12.000Z"
+  },
+  {
     "title": "Tropic of Cancer",
     "authors": [
       "Henry Miller"
