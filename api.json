@@ -259,5 +259,30 @@
     "completedAt": "2020-02-22T00:00:00.000Z",
     "timeToComplete": 32918400000,
     "timeToCompleteFormatted": "1 year"
+  },
+  {
+    "title": "A Brief History of Equality",
+    "authors": [
+      "Thomas Piketty",
+      "Steven Rendall"
+    ],
+    "publishedDate": "2022-05-18",
+    "image": "https://tse2.mm.bing.net/th?q=A%20Brief%20History%20of%20Equality%20by%20Thomas%20Piketty%2C%20Steven%20Rendall&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 2,
+    "pageCount": 288,
+    "isbn10": "0674279085",
+    "isbn13": "9780674279087",
+    "googleBooks": {
+      "id": "f8UVzwEACAAJ",
+      "preview": "http://books.google.com/books?id=f8UVzwEACAAJ&dq=intitle:A+Brief+History+of+Equality+by+Thomas+Piketty&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=f8UVzwEACAAJ&dq=intitle:A+Brief+History+of+Equality+by+Thomas+Piketty&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/A_Brief_History_of_Equality.html?hl=&id=f8UVzwEACAAJ"
+    },
+    "issueNumber": 15,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2019-01-01T00:00:00.000Z"
   }
 ]
