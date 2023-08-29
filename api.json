@@ -400,6 +400,37 @@
     "startedAt": "2019-01-01T00:00:00.000Z"
   },
   {
+    "title": "Software Architecture in Practice",
+    "authors": [
+      "Len Bass",
+      "Paul Clements",
+      "Rick Kazman"
+    ],
+    "publisher": "Addison-Wesley",
+    "publishedDate": "2012-09-25",
+    "description": "The award-winning and highly influential Software Architecture in Practice, Third Edition, has been substantially revised to reflect the latest developments in the field. In a real-world setting, the book once again introduces the concepts and best practices of software architecture—how a software system is structured and how that system’s elements are meant to interact. Distinct from the details of implementation, algorithm, and data representation, an architecture holds the key to achieving system quality, is a reusable asset that can be applied to subsequent systems, and is crucial to a software organization’s business strategy. The authors have structured this edition around the concept of architecture influence cycles. Each cycle shows how architecture influences, and is influenced by, a particular context in which architecture plays a critical role. Contexts include technical environment, the life cycle of a project, an organization’s business profile, and the architect’s professional practices. The authors also have greatly expanded their treatment of quality attributes, which remain central to their architecture philosophy—with an entire chapter devoted to each attribute—and broadened their treatment of architectural patterns. If you design, develop, or manage large software systems (or plan to do so), you will find this book to be a valuable resource for getting up to speed on the state of the art. Totally new material covers Contexts of software architecture: technical, project, business, and professional Architecture competence: what this means both for individuals and organizations The origins of business goals and how this affects architecture Architecturally significant requirements, and how to determine them Architecture in the life cycle, including generate-and-test as a design philosophy; architecture conformance during implementation; architecture and testing; and architecture and agile development Architecture and current technologies, such as the cloud, social networks, and end-user devices",
+    "image": "http://books.google.com/books/content?id=-II73rBDXCYC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3,
+    "ratingsCount": 4,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 624,
+    "isbn10": "013294278X",
+    "isbn13": "9780132942782",
+    "googleBooks": {
+      "id": "-II73rBDXCYC",
+      "preview": "http://books.google.com/books?id=-II73rBDXCYC&printsec=frontcover&dq=intitle:A+Philosophy+of+Software+Design,+2nd+Edition&hl=&cd=7&source=gbs_api",
+      "info": "http://books.google.com/books?id=-II73rBDXCYC&dq=intitle:A+Philosophy+of+Software+Design,+2nd+Edition&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Software_Architecture_in_Practice.html?hl=&id=-II73rBDXCYC"
+    },
+    "issueNumber": 29,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2013-10-12T00:00:00.000Z"
+  },
+  {
     "title": "14 Habits of Highly Productive Developers",
     "authors": [
       "Zeno Rocha"
