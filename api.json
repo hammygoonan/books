@@ -371,5 +371,38 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2019-01-01T00:00:00.000Z"
+  },
+  {
+    "title": "Refactoring",
+    "authors": [
+      "Martin Fowler",
+      "Kent Beck",
+      "John Brant",
+      "William Opdyke",
+      "Don Roberts"
+    ],
+    "publisher": "Addison-Wesley",
+    "publishedDate": "2012-03-09",
+    "description": "As the application of object technology--particularly the Java programming language--has become commonplace, a new problem has emerged to confront the software development community. Significant numbers of poorly designed programs have been created by less-experienced developers, resulting in applications that are inefficient and hard to maintain and extend. Increasingly, software system professionals are discovering just how difficult it is to work with these inherited, \"non-optimal\" applications. For several years, expert-level object programmers have employed a growing collection of techniques to improve the structural integrity and performance of such existing software programs. Referred to as \"refactoring,\" these practices have remained in the domain of experts because no attempt has been made to transcribe the lore into a form that all developers could use. . .until now. In Refactoring: Improving the Design of Existing Code, renowned object technology mentor Martin Fowler breaks new ground, demystifying these master practices and demonstrating how software practitioners can realize the significant benefits of this new process. With proper training a skilled system designer can take a bad design and rework it into well-designed, robust code. In this book, Martin Fowler shows you where opportunities for refactoring typically can be found, and how to go about reworking a bad design into a good one. Each refactoring step is simple--seemingly too simple to be worth doing. Refactoring may involve moving a field from one class to another, or pulling some code out of a method to turn it into its own method, or even pushing some code up or down a hierarchy. While these individual steps may seem elementary, the cumulative effect of such small changes can radically improve the design. Refactoring is a proven way to prevent software decay. In addition to discussing the various techniques of refactoring, the author provides a detailed catalog of more than seventy proven refactorings with helpful pointers that teach you when to apply them; step-by-step instructions for applying each refactoring; and an example illustrating how the refactoring works. The illustrative examples are written in Java, but the ideas are applicable to any object-oriented programming language.",
+    "image": "http://books.google.com/books/content?id=HmrDHwgkbPsC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 11,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 461,
+    "isbn10": "013306526X",
+    "isbn13": "9780133065268",
+    "googleBooks": {
+      "id": "HmrDHwgkbPsC",
+      "preview": "http://books.google.com/books?id=HmrDHwgkbPsC&printsec=frontcover&dq=intitle:Refactoring:+Improving+the+Design+of+Existing+Code&hl=&cd=2&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=HmrDHwgkbPsC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=HmrDHwgkbPsC"
+    },
+    "issueNumber": 26,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2012-12-02T00:00:00.000Z"
   }
 ]
