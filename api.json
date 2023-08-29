@@ -429,6 +429,32 @@
     "startedAt": "2014-10-12T00:00:00.000Z"
   },
   {
+    "title": "Principles of Software Engineering Management",
+    "authors": [
+      "Tom Gilb"
+    ],
+    "publisher": "Addison-Wesley Longman",
+    "publishedDate": "1997-01-01",
+    "description": "This book is designed to help software engineers and project managers understand and solve problems involved in developing complex software systems. It provides guidelines and tools for managing the technical and organizational aspects of software engineering projects.",
+    "image": "https://tse2.mm.bing.net/th?q=Principles%20of%20Software%20Engineering%20Management%20by%20Tom%20Gilb&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "en",
+    "averageRating": 3,
+    "ratingsCount": 2,
+    "pageCount": 512,
+    "isbn10": "0201427826",
+    "isbn13": "9780201427820",
+    "googleBooks": {
+      "id": "VeuWkgEACAAJ",
+      "preview": "http://books.google.com/books?id=VeuWkgEACAAJ&dq=intitle:Become+an+Effective+Software+Engineering+Manager&hl=&cd=6&source=gbs_api",
+      "info": "http://books.google.com/books?id=VeuWkgEACAAJ&dq=intitle:Become+an+Effective+Software+Engineering+Manager&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Principles_of_Software_Engineering_Manag.html?hl=&id=VeuWkgEACAAJ"
+    },
+    "issueNumber": 31,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2014-04-04T00:00:00.000Z"
+  },
+  {
     "title": "Software Architecture in Practice",
     "authors": [
       "Len Bass",
