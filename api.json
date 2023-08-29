@@ -400,6 +400,35 @@
     "startedAt": "2019-01-01T00:00:00.000Z"
   },
   {
+    "title": "The Manager's Path",
+    "authors": [
+      "Camille Fournier"
+    ],
+    "publisher": "\"O'Reilly Media, Inc.\"",
+    "publishedDate": "2017-03-13",
+    "description": "Managing people is difficult wherever you work. But in the tech industry, where management is also a technical discipline, the learning curve can be brutal—especially when there are few tools, texts, and frameworks to help you. In this practical guide, author Camille Fournier (tech lead turned CTO) takes you through each stage in the journey from engineer to technical manager. From mentoring interns to working with senior staff, you’ll get actionable advice for approaching various obstacles in your path. This book is ideal whether you’re a new manager, a mentor, or a more experienced leader looking for fresh advice. Pick up this book and learn how to become a better manager and leader in your organization. Begin by exploring what you expect from a manager Understand what it takes to be a good mentor, and a good tech lead Learn how to manage individual members while remaining focused on the entire team Understand how to manage yourself and avoid common pitfalls that challenge many leaders Manage multiple teams and learn how to manage managers Learn how to build and bootstrap a unifying culture in teams",
+    "image": "http://books.google.com/books/content?id=FaNaDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 5,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 244,
+    "isbn10": "1491973846",
+    "isbn13": "9781491973844",
+    "googleBooks": {
+      "id": "FaNaDgAAQBAJ",
+      "preview": "http://books.google.com/books?id=FaNaDgAAQBAJ&pg=PT1&dq=intitle:The+Manager%27s+Path:+A+Guide+for+Tech+Leaders+Navigating+Growth+and+Change&hl=&cd=2&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=FaNaDgAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=FaNaDgAAQBAJ"
+    },
+    "issueNumber": 30,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2014-10-12T00:00:00.000Z"
+  },
+  {
     "title": "Software Architecture in Practice",
     "authors": [
       "Len Bass",
