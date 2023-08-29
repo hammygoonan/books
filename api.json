@@ -25,7 +25,7 @@
     },
     "issueNumber": 24,
     "progressPercent": 0,
-    "state": "reading",
+    "state": "want-to-read",
     "startedAt": "2023-08-29T22:19:48.000Z"
   },
   {
@@ -171,6 +171,35 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2020-09-10T00:00:00.000Z"
+  },
+  {
+    "title": "Test-driven Development",
+    "authors": [
+      "Kent Beck"
+    ],
+    "publisher": "Addison-Wesley Professional",
+    "publishedDate": "2003",
+    "description": "About software development through constant testing.",
+    "image": "http://books.google.com/books/content?id=CUlsAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 3,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 241,
+    "isbn10": "0321146530",
+    "isbn13": "9780321146533",
+    "googleBooks": {
+      "id": "CUlsAQAAQBAJ",
+      "preview": "http://books.google.com/books?id=CUlsAQAAQBAJ&printsec=frontcover&dq=intitle:Test+Driven+Development:+By+Example&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=CUlsAQAAQBAJ&dq=intitle:Test+Driven+Development:+By+Example&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Test_driven_Development.html?hl=&id=CUlsAQAAQBAJ"
+    },
+    "issueNumber": 25,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2020-05-25T00:00:00.000Z"
   },
   {
     "title": "The Age of Surveillance Capitalism",
