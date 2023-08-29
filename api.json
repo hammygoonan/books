@@ -1,5 +1,32 @@
 [
   {
+    "title": "An Elegant Puzzle",
+    "authors": [
+      "Will Larson"
+    ],
+    "publisher": "Stripe Press",
+    "publishedDate": "2019-05-20",
+    "description": "A human-centric guide to solving complex problems in engineering management, from sizing teams to handling technical debt. There's a saying that people don't leave companies, they leave managers. Management is a key part of any organization, yet the discipline is often self-taught and unstructured. Getting to the good solutions for complex management challenges can make the difference between fulfillment and frustration for teams--and, ultimately, between the success and failure of companies. Will Larson's An Elegant Puzzle focuses on the particular challenges of engineering management--from sizing teams to handling technical debt to performing succession planning--and provides a path to the good solutions. Drawing from his experience at Digg, Uber, and Stripe, Larson has developed a thoughtful approach to engineering management for leaders of all levels at companies of all sizes. An Elegant Puzzle balances structured principles and human-centric thinking to help any leader create more effective and rewarding organizations for engineers to thrive in.",
+    "image": "http://books.google.com/books/content?id=2ZQrxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Business ethics"
+    ],
+    "pageCount": 0,
+    "isbn10": "1732265186",
+    "isbn13": "9781732265189",
+    "googleBooks": {
+      "id": "2ZQrxQEACAAJ",
+      "preview": "http://books.google.com/books?id=2ZQrxQEACAAJ&dq=intitle:An+Elegant+Puzzle:+Systems+of+Engineering+Management&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=2ZQrxQEACAAJ&dq=intitle:An+Elegant+Puzzle:+Systems+of+Engineering+Management&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/An_Elegant_Puzzle.html?hl=&id=2ZQrxQEACAAJ"
+    },
+    "issueNumber": 27,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-08-29T22:24:26.000Z"
+  },
+  {
     "title": "Patterns of Enterprise Application Architecture",
     "authors": [
       "Martin Fowler"
@@ -371,6 +398,35 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2019-01-01T00:00:00.000Z"
+  },
+  {
+    "title": "14 Habits of Highly Productive Developers",
+    "authors": [
+      "Zeno Rocha"
+    ],
+    "publisher": "Zeno Rocha",
+    "publishedDate": "2021-01-14",
+    "description": "Why This Book? You can learn the most popular frameworks, use the best programming languages, and work at the biggest tech companies, but if you cultivate bad habits, it will be hard for you to become a top developer. This book doesn't offer a straight path or pre-defined formula of success. This book is a result of a quest. A quest to uncover what habits can be cultivated to become a better software engineer. \"I wish I had access to this book while I was starting in the software industry. The information presented is not only logical, not only personal, but very well backed up by many expert opinions throughout the book. A must-read, for both beginners and experts alike.\" - Zachary Sohovich, Software Engineer at Nike What Will You Read? How to keep up with all the new technologies What should you focus? Being a specialist or generalist? How to stay productive and not feel overwhelmed The importance of estimating tasks correctly How to approach new side project ideas And much more Who Should Read This Book? It doesn't matter if you're a Junior or Senior developer. It doesn't matter how experienced you are. This book can help you cultivate new habits or rethink existing behaviors. What's Inside? This is not a traditional book. You won't find the same format or structure that a regular book has. In fact, this book was designed to be as simple and objective as possible. You can follow the order of chapters, or you can read them individually. Everything is standalone and doesn't depend on previous knowledge. At the end of each chapter, you'll find a section marked as \"Questions & Answers\", where I interview senior developers and tech leads from various companies to understand how they got there. I went after tech giants such as Google, Amazon, Microsoft, and Adobe. Powerful startups such as GitHub, Spotify, Elastic, Segment, GoDaddy, and Shopify. All the way to established organizations such as Citibank, BlackBerry, and The New York Times. These people come from all over the world and have a pretty diverse background. From San Francisco to New York. From São Paulo to Montreal. From London to Stockholm. The idea is to present you not a one man's point of view, but a collection of insights on how to navigate your career. Who's The Author? Zeno Rocha is a Brazilian creator and programmer. He currently lives in Los Angeles, California, where he's the Chief Product Officer at Liferay Cloud. His lifelong appreciation for building software and sharing knowledge led him to speak in over 110 conferences worldwide. His passion for open source put him on the top 20 most active users on GitHub at age 22. Before moving to the US, Zeno developed multiple applications, mentored startups, and worked at major companies in Latin America, such as Globo and Petrobras.",
+    "image": "http://books.google.com/books/content?id=8UUozgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 156,
+    "isbn10": "1735266531",
+    "isbn13": "9781735266534",
+    "googleBooks": {
+      "id": "8UUozgEACAAJ",
+      "preview": "http://books.google.com/books?id=8UUozgEACAAJ&dq=intitle:14+Habits+of+Highly+Productive+Developers&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=8UUozgEACAAJ&dq=intitle:14+Habits+of+Highly+Productive+Developers&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/14_Habits_of_Highly_Productive_Developer.html?hl=&id=8UUozgEACAAJ"
+    },
+    "issueNumber": 28,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2013-04-04T00:00:00.000Z"
   },
   {
     "title": "Refactoring",
