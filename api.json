@@ -1,5 +1,34 @@
 [
   {
+    "title": "Command and Control",
+    "authors": [
+      "Eric Schlosser"
+    ],
+    "publisher": "Penguin",
+    "publishedDate": "2014-08-26",
+    "description": "The Oscar-shortlisted documentary Command and Control, directed by Robert Kenner, finds its origins in Eric Schlosser's book and continues to explore the little-known history of the management and safety concerns of America's nuclear aresenal. “A devastatingly lucid and detailed new history of nuclear weapons in the U.S. Fascinating.” —Lev Grossman, TIME Magazine “Perilous and gripping . . . Schlosser skillfully weaves together an engrossing account of both the science and the politics of nuclear weapons safety.” —San Francisco Chronicle A myth-shattering exposé of America’s nuclear weapons Famed investigative journalist Eric Schlosser digs deep to uncover secrets about the management of America’s nuclear arsenal. A groundbreaking account of accidents, near misses, extraordinary heroism, and technological breakthroughs, Command and Control explores the dilemma that has existed since the dawn of the nuclear age: How do you deploy weapons of mass destruction without being destroyed by them? That question has never been resolved—and Schlosser reveals how the combination of human fallibility and technological complexity still poses a grave risk to mankind. While the harms of global warming increasingly dominate the news, the equally dangerous yet more immediate threat of nuclear weapons has been largely forgotten. Written with the vibrancy of a first-rate thriller, Command and Control interweaves the minute-by-minute story of an accident at a nuclear missile silo in rural Arkansas with a historical narrative that spans more than fifty years. It depicts the urgent effort by American scientists, policy makers, and military officers to ensure that nuclear weapons can’t be stolen, sabotaged, used without permission, or detonated inadvertently. Schlosser also looks at the Cold War from a new perspective, offering history from the ground up, telling the stories of bomber pilots, missile commanders, maintenance crews, and other ordinary servicemen who risked their lives to avert a nuclear holocaust. At the heart of the book lies the struggle, amid the rolling hills and small farms of Damascus, Arkansas, to prevent the explosion of a ballistic missile carrying the most powerful nuclear warhead ever built by the United States. Drawing on recently declassified documents and interviews with people who designed and routinely handled nuclear weapons, Command and Control takes readers into a terrifying but fascinating world that, until now, has been largely hidden from view. Through the details of a single accident, Schlosser illustrates how an unlikely event can become unavoidable, how small risks can have terrible consequences, and how the most brilliant minds in the nation can only provide us with an illusion of control. Audacious, gripping, and unforgettable, Command and Control is a tour de force of investigative journalism, an eye-opening look at the dangers of America’s nuclear age.",
+    "image": "http://books.google.com/books/content?id=lJ6JDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 21,
+    "categories": [
+      "History"
+    ],
+    "pageCount": 658,
+    "isbn10": "0143125788",
+    "isbn13": "9780143125785",
+    "googleBooks": {
+      "id": "lJ6JDQAAQBAJ",
+      "preview": "http://books.google.com/books?id=lJ6JDQAAQBAJ&printsec=frontcover&dq=intitle:Command+and+Control&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=lJ6JDQAAQBAJ&dq=intitle:Command+and+Control&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Command_and_Control.html?hl=&id=lJ6JDQAAQBAJ"
+    },
+    "issueNumber": 36,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2023-09-18T11:23:49.000Z"
+  },
+  {
     "title": "EMPOWERED",
     "authors": [
       "Marty Cagan"
@@ -343,6 +372,35 @@
     "startedAt": "2019-11-13T00:00:00.000Z"
   },
   {
+    "title": "Test-driven Development",
+    "authors": [
+      "Kent Beck"
+    ],
+    "publisher": "Addison-Wesley Professional",
+    "publishedDate": "2003",
+    "description": "About software development through constant testing.",
+    "image": "http://books.google.com/books/content?id=CUlsAQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 3,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 241,
+    "isbn10": "0321146530",
+    "isbn13": "9780321146533",
+    "googleBooks": {
+      "id": "CUlsAQAAQBAJ",
+      "preview": "http://books.google.com/books?id=CUlsAQAAQBAJ&printsec=frontcover&dq=intitle:Test+Driven+Development+:+By+Example&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=CUlsAQAAQBAJ&dq=intitle:Test+Driven+Development+:+By+Example&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Test_driven_Development.html?hl=&id=CUlsAQAAQBAJ"
+    },
+    "issueNumber": 23,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2019-06-01T00:00:00.000Z"
+  },
+  {
     "title": "Dark Emu",
     "authors": [
       "Bruce Pascoe"
@@ -517,25 +575,25 @@
     "startedAt": "2014-10-12T00:00:00.000Z"
   },
   {
-    "title": "Become an Effective Software Engineering Manager",
+    "title": "Principles of Software Engineering Management",
     "authors": [
-      "James Stanier"
+      "Tom Gilb"
     ],
-    "publisher": "Pragmatic Bookshelf",
-    "publishedDate": "2020-06-09",
-    "description": "Software startups make global headlines every day. As technology companies succeed and grow, so do their engineering departments. In your career, you'll may suddenly get the opportunity to lead teams: to become a manager. But this is often uncharted territory. How can you decide whether this career move is right for you? And if you do, what do you need to learn to succeed? Where do you start? How do you know that you're doing it right? What does 'it' even mean? And isn't management a dirty word? This book will share the secrets you need to know to manage engineers successfully. Going from engineer to manager doesn't have to be intimidating. Engineers can be managers, and fantastic ones at that. Cast aside the rhetoric and focus on practical, hands-on techniques and tools. You'll become an effective and supportive team leader that your staff will look up to. Start with your transition to being a manager and see how that compares to being an engineer. Learn how to better organize information, feel productive, and delegate, but not micromanage. Discover how to manage your own boss, hire and fire, do performance and salary reviews, and build a great team. You'll also learn the psychology: how to ship while keeping staff happy, coach and mentor, deal with deadline pressure, handle sensitive information, and navigate workplace politics. Consider your whole department. How can you work with other teams to ensure best practice? How do you help form guilds and committees and communicate effectively? How can you create career tracks for individual contributors and managers? How can you support flexible and remote working? How can you improve diversity in the industry through your own actions? This book will show you how. Great managers can make the world a better place. Join us.",
-    "image": "http://books.google.com/books/content?id=2_dKzQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "publisher": "Addison-Wesley Longman",
+    "publishedDate": "1997-01-01",
+    "description": "This book is designed to help software engineers and project managers understand and solve problems involved in developing complex software systems. It provides guidelines and tools for managing the technical and organizational aspects of software engineering projects.",
+    "image": "https://tse2.mm.bing.net/th?q=Principles%20of%20Software%20Engineering%20Management%20by%20Tom%20Gilb&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
     "language": "en",
-    "averageRating": 5,
-    "ratingsCount": 1,
-    "pageCount": 398,
-    "isbn10": "1680507249",
-    "isbn13": "9781680507249",
+    "averageRating": 3,
+    "ratingsCount": 2,
+    "pageCount": 512,
+    "isbn10": "0201427826",
+    "isbn13": "9780201427820",
     "googleBooks": {
-      "id": "2_dKzQEACAAJ",
-      "preview": "http://books.google.com.au/books?id=2_dKzQEACAAJ&dq=intitle:Become+an+Effective+Software+Engineering+Manager&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com.au/books?id=2_dKzQEACAAJ&dq=intitle:Become+an+Effective+Software+Engineering+Manager&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Become_an_Effective_Software_Engineering.html?hl=&id=2_dKzQEACAAJ"
+      "id": "VeuWkgEACAAJ",
+      "preview": "http://books.google.com/books?id=VeuWkgEACAAJ&dq=intitle:Become+an+Effective+Software+Engineering+Manager&hl=&cd=6&source=gbs_api",
+      "info": "http://books.google.com/books?id=VeuWkgEACAAJ&dq=intitle:Become+an+Effective+Software+Engineering+Manager&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Principles_of_Software_Engineering_Manag.html?hl=&id=VeuWkgEACAAJ"
     },
     "issueNumber": 31,
     "progressPercent": 0,
