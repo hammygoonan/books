@@ -25,7 +25,7 @@
     },
     "issueNumber": 36,
     "progressPercent": 0,
-    "state": "reading",
+    "state": "want-to-read",
     "startedAt": "2023-09-18T11:23:49.000Z"
   },
   {
@@ -110,8 +110,11 @@
     },
     "issueNumber": 27,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-08-29T22:24:26.000Z"
+    "state": "completed",
+    "startedAt": "2023-08-29T22:24:26.000Z",
+    "completedAt": "2023-11-08T20:44:52.000Z",
+    "timeToComplete": 6128426000,
+    "timeToCompleteFormatted": "2 months"
   },
   {
     "title": "Patterns of Enterprise Application Architecture",
@@ -397,7 +400,7 @@
     },
     "issueNumber": 23,
     "progressPercent": 0,
-    "state": "reading",
+    "state": "want-to-read",
     "startedAt": "2019-06-01T00:00:00.000Z"
   },
   {
