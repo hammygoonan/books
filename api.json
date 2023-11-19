@@ -1,5 +1,33 @@
 [
   {
+    "title": "The Missing README",
+    "authors": [
+      "Chris Riccomini",
+      "Dmitriy Ryaboy"
+    ],
+    "publisher": "No Starch Press",
+    "publishedDate": "2021-08-10",
+    "description": "Key concepts and best practices for new software engineers — stuff critical to your workplace success that you weren’t taught in school. For new software engineers, knowing how to program is only half the battle. You’ll quickly find that many of the skills and processes key to your success are not taught in any school or bootcamp. The Missing README fills in that gap—a distillation of workplace lessons, best practices, and engineering fundamentals that the authors have taught rookie developers at top companies for more than a decade. Early chapters explain what to expect when you begin your career at a company. The book’s middle section expands your technical education, teaching you how to work with existing codebases, address and prevent technical debt, write production-grade software, manage dependencies, test effectively, do code reviews, safely deploy software, design evolvable architectures, and handle incidents when you’re on-call. Additional chapters cover planning and interpersonal skills such as Agile planning, working effectively with your manager, and growing to senior levels and beyond. You’ll learn: How to use the legacy code change algorithm, and leave code cleaner than you found it How to write operable code with logging, metrics, configuration, and defensive programming How to write deterministic tests, submit code reviews, and give feedback on other people’s code The technical design process, including experiments, problem definition, documentation, and collaboration What to do when you are on-call, and how to navigate production incidents Architectural techniques that make code change easier Agile development practices like sprint planning, stand-ups, and retrospectives This is the book your tech lead wishes every new engineer would read before they start. By the end, you’ll know what it takes to transition into the workplace–from CS classes or bootcamps to professional software engineering.",
+    "image": "http://books.google.com/books/content?id=M7UjEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 194,
+    "isbn10": "1718501846",
+    "isbn13": "9781718501843",
+    "googleBooks": {
+      "id": "M7UjEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=M7UjEAAAQBAJ&printsec=frontcover&dq=intitle:The+Software+Engineer%27s+Guidebook&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=M7UjEAAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=M7UjEAAAQBAJ"
+    },
+    "issueNumber": 39,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2023-11-19T22:26:14.000Z"
+  },
+  {
     "title": "Accelerate",
     "authors": [
       "Nicole Forsgren PhD",
