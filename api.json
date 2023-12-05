@@ -341,6 +341,36 @@
     "startedAt": "2023-01-11T02:50:57.000Z"
   },
   {
+    "title": "No-Drama Discipline",
+    "authors": [
+      "Daniel J. Siegel",
+      "Tina Payne Bryson"
+    ],
+    "publisher": "Bantam",
+    "publishedDate": "2016-07-12",
+    "description": "NEW YORK TIMES BESTSELLER • The pioneering experts behind The Whole-Brain Child and The Yes Brain tackle the ultimate parenting challenge: discipline. “A lot of fascinating insights . . . an eye-opener worth reading.”—Parents Highlighting the fascinating link between a child’s neurological development and the way a parent reacts to misbehavior, No-Drama Discipline provides an effective, compassionate road map for dealing with tantrums, tensions, and tears—without causing a scene. Defining the true meaning of the “d” word (to instruct, not to shout or reprimand), the authors explain how to reach your child, redirect emotions, and turn a meltdown into an opportunity for growth. By doing so, the cycle of negative behavior (and punishment) is essentially brought to a halt, as problem solving becomes a win/win situation. Inside this sanity-saving guide you’ll discover • strategies that help parents identify their own discipline philosophy—and master the best methods to communicate the lessons they are trying to impart • facts on child brain development—and what kind of discipline is most appropriate and constructive at all ages and stages • the way to calmly and lovingly connect with a child—no matter how extreme the behavior—while still setting clear and consistent limits • tips for navigating your child through a tantrum to achieve insight, empathy, and repair • twenty discipline mistakes even the best parents make—and how to stay focused on the principles of whole-brain parenting and discipline techniques Complete with candid stories and playful illustrations that bring the authors’ suggestions to life, No-Drama Discipline shows you how to work with your child’s developing mind, peacefully resolve conflicts, and inspire happiness and strengthen resilience in everyone in the family. Praise for No-Drama Discipline “With lucid, engaging prose accompanied by cartoon illustrations, Siegel and Bryson help parents teach and communicate more effectively.”—Publishers Weekly “Wow! This book grabbed me from the very first page and did not let go.”—Lawrence J. Cohen, Ph.D., author of The Opposite of Worry",
+    "image": "http://books.google.com/books/content?id=8n1cDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 3,
+    "ratingsCount": 1,
+    "categories": [
+      "Family & Relationships"
+    ],
+    "pageCount": 290,
+    "isbn10": "034554806X",
+    "isbn13": "9780345548061",
+    "googleBooks": {
+      "id": "8n1cDAAAQBAJ",
+      "preview": "http://books.google.com/books?id=8n1cDAAAQBAJ&printsec=frontcover&dq=intitle:The+Whole-Brain+Child&hl=&cd=8&source=gbs_api",
+      "info": "http://books.google.com/books?id=8n1cDAAAQBAJ&dq=intitle:The+Whole-Brain+Child&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/No_Drama_Discipline.html?hl=&id=8n1cDAAAQBAJ"
+    },
+    "issueNumber": 40,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2022-02-20T00:00:00.000Z"
+  },
+  {
     "title": "Domain-driven Design",
     "authors": [
       "Eric Evans",
