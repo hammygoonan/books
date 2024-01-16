@@ -11,15 +11,15 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (3)
+### ⌛ Currently reading (2)
 
 [![Book cover of Clean Code](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DhjEFCAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/2 "Clean Code by Robert C. Martin")
-[![Book cover of The Whole-Brain Child](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DfMgd-YHYsHAC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/40 "The Whole-Brain Child by Daniel J. Siegel, Tina Payne Bryson")
 [![Book cover of 14 Habits of Highly Productive Developers](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D8UUozgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/28 "14 Habits of Highly Productive Developers by Zeno Rocha")
 
-### ✅ Completed (3)
+### ✅ Completed (4)
 
 [![Book cover of An Elegant Puzzle](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D2ZQrxQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/27 "An Elegant Puzzle by Will Larson completed in 2 months on November 2023")
+[![Book cover of No-Drama Discipline](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D8n1cDAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/40 "No-Drama Discipline by Daniel J. Siegel, Tina Payne Bryson completed in 4 days on February 2022")
 [![Book cover of Dark Emu](https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DDark%2520Emu%2520by%2520Bruce%2520Pascoe%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/13 "Dark Emu by Bruce Pascoe completed in 10 months on February 2020")
 [![Book cover of Practice](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DVHaSvQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/14 "Practice by Guy Rundle completed in 1 year on February 2020")
 
