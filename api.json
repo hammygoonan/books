@@ -1,5 +1,36 @@
 [
   {
+    "title": "Accelerate",
+    "authors": [
+      "Nicole Forsgren PhD",
+      "Jez Humble",
+      "Gene Kim"
+    ],
+    "publisher": "IT Revolution",
+    "publishedDate": "2018-03-27",
+    "description": "Winner of the Shingo Publication Award Accelerate your organization to win in the marketplace. How can we apply technology to drive business value? For years, we've been told that the performance of software delivery teams doesn't matter―that it can't provide a competitive advantage to our companies. Through four years of groundbreaking research to include data collected from the State of DevOps reports conducted with Puppet, Dr. Nicole Forsgren, Jez Humble, and Gene Kim set out to find a way to measure software delivery performance―and what drives it―using rigorous statistical methods. This book presents both the findings and the science behind that research, making the information accessible for readers to apply in their own organizations. Readers will discover how to measure the performance of their teams, and what capabilities they should invest in to drive higher performance. This book is ideal for management at every level.",
+    "image": "http://books.google.com/books/content?id=Kax-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 288,
+    "isbn10": "1942788355",
+    "isbn13": "9781942788355",
+    "googleBooks": {
+      "id": "Kax-DwAAQBAJ",
+      "preview": "http://books.google.com/books?id=Kax-DwAAQBAJ&printsec=frontcover&dq=intitle:Accelerate:+The+Science+of+Lean+Software+and+DevOps:+Building+and+Scaling+High+Performing+Technology+Organizations&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=Kax-DwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=Kax-DwAAQBAJ"
+    },
+    "issueNumber": 42,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-01-31T03:52:33.000Z"
+  },
+  {
     "title": "The Missing README",
     "authors": [
       "Chris Riccomini",
