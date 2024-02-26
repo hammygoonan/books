@@ -1,5 +1,33 @@
 [
   {
+    "title": "Team Topologies",
+    "authors": [
+      "Matthew Skelton",
+      "Manuel Pais"
+    ],
+    "publisher": "It Revolution Press",
+    "publishedDate": "2019-09-07",
+    "description": "In Team Topologies IT consultants Matthew Skelton and Manuel Pais share secrets of successful team patterns and interactions for IT through four fundamental team topologies and three interaction modes.",
+    "image": "http://books.google.com/books/content?id=oFdRuAEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 240,
+    "isbn10": "1942788819",
+    "isbn13": "9781942788812",
+    "googleBooks": {
+      "id": "oFdRuAEACAAJ",
+      "preview": "http://books.google.com/books?id=oFdRuAEACAAJ&dq=intitle:Team+Topologies:+Organizing+Business+and+Technology+Teams+for+Fast+Flow+by+Matthew+Skelton+and+Manuel+Pais&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=oFdRuAEACAAJ&dq=intitle:Team+Topologies:+Organizing+Business+and+Technology+Teams+for+Fast+Flow+by+Matthew+Skelton+and+Manuel+Pais&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Team_Topologies.html?hl=&id=oFdRuAEACAAJ"
+    },
+    "issueNumber": 43,
+    "progressPercent": 0,
+    "state": "want-to-read",
+    "startedAt": "2024-02-26T10:24:23.000Z"
+  },
+  {
     "title": "Accelerate",
     "authors": [
       "Nicole Forsgren PhD",
@@ -27,7 +55,7 @@
     },
     "issueNumber": 42,
     "progressPercent": 0,
-    "state": "reading",
+    "state": "want-to-read",
     "startedAt": "2024-01-31T03:52:33.000Z"
   },
   {
