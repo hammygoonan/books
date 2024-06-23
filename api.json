@@ -449,8 +449,11 @@
     },
     "issueNumber": 2,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2023-01-11T02:50:57.000Z"
+    "state": "completed",
+    "startedAt": "2023-01-11T02:50:57.000Z",
+    "completedAt": "2024-06-23T11:48:43.000Z",
+    "timeToComplete": 45737866000,
+    "timeToCompleteFormatted": "1 year"
   },
   {
     "title": "No-Drama Discipline",
