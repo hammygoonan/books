@@ -633,33 +633,31 @@
     "startedAt": "2019-01-01T00:00:00.000Z"
   },
   {
-    "title": "The Manager's Path",
+    "title": "The Staff Engineer's Path",
     "authors": [
-      "Camille Fournier"
+      "Tanya Reilly"
     ],
     "publisher": "\"O'Reilly Media, Inc.\"",
-    "publishedDate": "2017-03-13",
-    "description": "Managing people is difficult wherever you work. But in the tech industry, where management is also a technical discipline, the learning curve can be brutal—especially when there are few tools, texts, and frameworks to help you. In this practical guide, author Camille Fournier (tech lead turned CTO) takes you through each stage in the journey from engineer to technical manager. From mentoring interns to working with senior staff, you’ll get actionable advice for approaching various obstacles in your path. This book is ideal whether you’re a new manager, a mentor, or a more experienced leader looking for fresh advice. Pick up this book and learn how to become a better manager and leader in your organization. Begin by exploring what you expect from a manager Understand what it takes to be a good mentor, and a good tech lead Learn how to manage individual members while remaining focused on the entire team Understand how to manage yourself and avoid common pitfalls that challenge many leaders Manage multiple teams and learn how to manage managers Learn how to build and bootstrap a unifying culture in teams",
-    "image": "http://books.google.com/books/content?id=zqNaDgAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "publishedDate": "2022-09-20",
+    "description": "For years, companies have rewarded their most effective engineers with management positions. But treating management as the default path for an engineer with leadership ability doesn't serve the industry well--or the engineer. The staff engineer's path allows engineers to contribute at a high level as role models, driving big projects, determining technical strategy, and raising everyone's skills. This in-depth book shows you how to understand your role, manage your time, master strategic thinking, and set the standard for technical work. You'll read about how to be a leader without direct authority, how to plan ahead to make the right technical decisions, and how to make everyone around you better, while still growing as an expert in your domain. By exploring the three pillars of a staff engineer's job, Tanya Reilly, a veteran of the staff engineer track, shows you how to: Take a broad, strategic view when thinking about your work Dive into practical tactics for making projects succeed Determine what \"good engineering\" means in your organization",
+    "image": "http://books.google.com/books/content?id=e4iKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
     "language": "en",
-    "averageRating": 4.5,
-    "ratingsCount": 3,
     "categories": [
       "Business & Economics"
     ],
-    "pageCount": 243,
-    "isbn10": "1491973862",
-    "isbn13": "9781491973868",
+    "pageCount": 359,
+    "isbn10": "1098118707",
+    "isbn13": "9781098118709",
     "googleBooks": {
-      "id": "zqNaDgAAQBAJ",
-      "preview": "http://books.google.com/books?id=zqNaDgAAQBAJ&printsec=frontcover&dq=intitle:The+Staff+Engineer%27s+Path&hl=&cd=4&source=gbs_api",
-      "info": "http://books.google.com/books?id=zqNaDgAAQBAJ&dq=intitle:The+Staff+Engineer%27s+Path&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Manager_s_Path.html?hl=&id=zqNaDgAAQBAJ"
+      "id": "e4iKEAAAQBAJ",
+      "preview": "http://books.google.com/books?id=e4iKEAAAQBAJ&printsec=frontcover&dq=intitle:The+Staff+Engineer%27s+Path+by+Tanya+Reilly&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=e4iKEAAAQBAJ&dq=intitle:The+Staff+Engineer%27s+Path+by+Tanya+Reilly&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/The_Staff_Engineer_s_Path.html?hl=&id=e4iKEAAAQBAJ"
     },
-    "issueNumber": 34,
+    "issueNumber": 45,
     "progressPercent": 0,
-    "state": "want-to-read",
-    "startedAt": "2015-03-04T00:00:00.000Z"
+    "state": "reading",
+    "startedAt": "2016-10-12T00:00:00.000Z"
   },
   {
     "title": "The Pragmatic Programmer",
