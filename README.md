@@ -11,8 +11,9 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (2)
+### ⌛ Currently reading (3)
 
+[![Book cover of Gabriel García Márquez's One Hundred Years of Solitude](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D-uL2s0htCtkC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/48 "Gabriel García Márquez's One Hundred Years of Solitude by Gene H. Bell-Villada")
 [![Book cover of The Guns of August](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DfnVy4v5pZPMC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/47 "The Guns of August by Barbara W. Tuchman")
 [![Book cover of 14 Habits of Highly Productive Developers](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D8UUozgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/28 "14 Habits of Highly Productive Developers by Zeno Rocha")
 

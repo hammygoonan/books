@@ -1,5 +1,34 @@
 [
   {
+    "title": "Gabriel García Márquez's One Hundred Years of Solitude",
+    "authors": [
+      "Gene H. Bell-Villada"
+    ],
+    "publisher": "Oxford University Press, USA",
+    "publishedDate": "2002",
+    "description": "This collection includes ten articles by different authors that offer in-depth readings of the novel. Among the topics examined are myth, magic, women, western imperialism, and the media. The book also includes a 1982 interview with the author.",
+    "image": "http://books.google.com/books/content?id=-uL2s0htCtkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Literary Criticism"
+    ],
+    "pageCount": 188,
+    "isbn10": "0195144554",
+    "isbn13": "9780195144550",
+    "googleBooks": {
+      "id": "-uL2s0htCtkC",
+      "preview": "http://books.google.com/books?id=-uL2s0htCtkC&printsec=frontcover&dq=intitle:One+Hundred+Years+of+Solitude+by+Gabriel+Garc%C3%ADa+M%C3%A1rquez&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=-uL2s0htCtkC&dq=intitle:One+Hundred+Years+of+Solitude+by+Gabriel+Garc%C3%ADa+M%C3%A1rquez&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Gabriel_Garc%C3%ADa_M%C3%A1rquez_s_One_Hundred_Y.html?hl=&id=-uL2s0htCtkC"
+    },
+    "issueNumber": 48,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-06-23T11:49:53.000Z"
+  },
+  {
     "title": "The Guns of August",
     "authors": [
       "Barbara W. Tuchman"
