@@ -1,5 +1,34 @@
 [
   {
+    "title": "The Guns of August",
+    "authors": [
+      "Barbara W. Tuchman"
+    ],
+    "publisher": "Random House",
+    "publishedDate": "2009-07-22",
+    "description": "PULITZER PRIZE WINNER • “A brilliant piece of military history which proves up to the hilt the force of Winston Churchill’s statement that the first month of World War I was ‘a drama never surpassed.’”—Newsweek Selected by the Modern Library as one of the 100 best nonfiction books of all time In this landmark account, renowned historian Barbara W. Tuchman re-creates the first month of World War I: thirty days in the summer of 1914 that determined the course of the conflict, the century, and ultimately our present world. Beginning with the funeral of Edward VII, Tuchman traces each step that led to the inevitable clash. And inevitable it was, with all sides plotting their war for a generation. Dizzyingly comprehensive and spectacularly portrayed with her famous talent for evoking the characters of the war’s key players, Tuchman’s magnum opus is a classic for the ages. The Proud Tower, the Pulitzer Prize–winning The Guns of August, and The Zimmermann Telegram comprise Barbara W. Tuchman’s classic histories of the First World War era",
+    "image": "http://books.google.com/books/content?id=fnVy4v5pZPMC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 11,
+    "categories": [
+      "History"
+    ],
+    "pageCount": 658,
+    "isbn10": "0307567621",
+    "isbn13": "9780307567628",
+    "googleBooks": {
+      "id": "fnVy4v5pZPMC",
+      "preview": "http://books.google.com/books?id=fnVy4v5pZPMC&printsec=frontcover&dq=intitle:The+Guns+of+August+by+Barbara+W.+Tuchman&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=fnVy4v5pZPMC&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=fnVy4v5pZPMC"
+    },
+    "issueNumber": 47,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-06-23T11:46:18.000Z"
+  },
+  {
     "title": "Staff Engineer",
     "authors": [
       "Will Larson"
