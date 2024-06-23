@@ -1,5 +1,27 @@
 [
   {
+    "title": "Staff Engineer",
+    "authors": [
+      "Will Larson"
+    ],
+    "publishedDate": "2021-02-28",
+    "description": "At most technology companies, you'll reach Senior Software Engineer, the career level for software engineers, in five to eight years. At that career level, you'll no longer be required to work towards the next pro? motion, and being promoted beyond it is exceptional rather than ex? pected. At that point your career path will branch, and you have to decide between remaining at your current level, continuing down the path of technical excellence to become a Staff Engineer, or switching into engineering management. Of course, the specific titles vary by company, and you can replace \"Senior Engineer\" and \"Staff Engineer\" with whatever titles your company prefers.Over the past few years we've seen a flurry of books unlocking the en? gineering management career path, like Camille Fournier's The Man? ager's Path, Julie Zhuo's The Making of a Manager, Lara Hogan's Re? silient Management and my own, An Elegant Puzzle. The manage? ment career isn't an easy one, but increasingly there are maps avail? able for navigating it.On the other hand, the transition into Staff Engineer, and its further evolutions like Principal and Distinguished Engineer, remains chal? lenging and undocumented. What are the skills you need to develop to reach Staff Engineer? Are technical abilities alone sufficient to reach and succeed in that role? How do most folks reach this role? What is your manager's role in helping you along the way? Will you enjoy being a Staff Engineer or you will toil for years to achieve a role that doesn't suit you?\"Staff Engineer: Leadership beyond the management track\" is a pragmatic look at attaining and operate in these Staff-plus roles.",
+    "image": "https://tse2.mm.bing.net/th?q=Staff%20Engineer%20by%20Will%20Larson&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "en",
+    "isbn10": "1736417916",
+    "isbn13": "9781736417911",
+    "googleBooks": {
+      "id": "1-M0zgEACAAJ",
+      "preview": "http://books.google.com/books?id=1-M0zgEACAAJ&dq=intitle:Staff+Engineer:+Leadership+beyond+the+management+track+by+Will+Larson&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=1-M0zgEACAAJ&dq=intitle:Staff+Engineer:+Leadership+beyond+the+management+track+by+Will+Larson&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Staff_Engineer.html?hl=&id=1-M0zgEACAAJ"
+    },
+    "issueNumber": 46,
+    "progressPercent": 0,
+    "state": "reading",
+    "startedAt": "2024-06-23T11:27:57.000Z"
+  },
+  {
     "title": "Good Inside",
     "authors": [
       "Dr. Becky Kennedy"
@@ -631,33 +653,6 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2019-01-01T00:00:00.000Z"
-  },
-  {
-    "title": "The Staff Engineer's Path",
-    "authors": [
-      "Tanya Reilly"
-    ],
-    "publisher": "\"O'Reilly Media, Inc.\"",
-    "publishedDate": "2022-09-20",
-    "description": "For years, companies have rewarded their most effective engineers with management positions. But treating management as the default path for an engineer with leadership ability doesn't serve the industry well--or the engineer. The staff engineer's path allows engineers to contribute at a high level as role models, driving big projects, determining technical strategy, and raising everyone's skills. This in-depth book shows you how to understand your role, manage your time, master strategic thinking, and set the standard for technical work. You'll read about how to be a leader without direct authority, how to plan ahead to make the right technical decisions, and how to make everyone around you better, while still growing as an expert in your domain. By exploring the three pillars of a staff engineer's job, Tanya Reilly, a veteran of the staff engineer track, shows you how to: Take a broad, strategic view when thinking about your work Dive into practical tactics for making projects succeed Determine what \"good engineering\" means in your organization",
-    "image": "http://books.google.com/books/content?id=e4iKEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 359,
-    "isbn10": "1098118707",
-    "isbn13": "9781098118709",
-    "googleBooks": {
-      "id": "e4iKEAAAQBAJ",
-      "preview": "http://books.google.com/books?id=e4iKEAAAQBAJ&printsec=frontcover&dq=intitle:The+Staff+Engineer%27s+Path+by+Tanya+Reilly&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=e4iKEAAAQBAJ&dq=intitle:The+Staff+Engineer%27s+Path+by+Tanya+Reilly&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/The_Staff_Engineer_s_Path.html?hl=&id=e4iKEAAAQBAJ"
-    },
-    "issueNumber": 45,
-    "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2016-10-12T00:00:00.000Z"
   },
   {
     "title": "The Pragmatic Programmer",
