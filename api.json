@@ -18,8 +18,11 @@
     },
     "issueNumber": 46,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-06-23T11:27:57.000Z"
+    "state": "completed",
+    "startedAt": "2024-06-23T11:27:57.000Z",
+    "completedAt": "2024-06-23T11:29:20.000Z",
+    "timeToComplete": 83000,
+    "timeToCompleteFormatted": "1 minute"
   },
   {
     "title": "Good Inside",
