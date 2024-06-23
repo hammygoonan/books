@@ -82,8 +82,11 @@
     },
     "issueNumber": 42,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-01-31T03:52:33.000Z"
+    "state": "completed",
+    "startedAt": "2024-01-31T03:52:33.000Z",
+    "completedAt": "2024-06-23T11:23:33.000Z",
+    "timeToComplete": 12468660000,
+    "timeToCompleteFormatted": "4 months"
   },
   {
     "title": "The Missing README",
