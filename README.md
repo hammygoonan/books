@@ -11,9 +11,10 @@ This repository is used to track the books I'm reading these days, powered by [B
 ## 📖 My bookshelf
 
 <!--start:bookshelf-action-->
-### ⌛ Currently reading (2)
+### ⌛ Currently reading (3)
 
 [![The Guns of August](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DfnVy4v5pZPMC%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/47 "The Guns of August by Barbara W. Tuchman")
+[![Team Topologies](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DoFdRuAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/43 "Team Topologies by Matthew Skelton, Manuel Pais")
 [![14 Habits of Highly Productive Developers](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3D8UUozgEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/28 "14 Habits of Highly Productive Developers by Zeno Rocha")
 
 ### ✅ Completed (8)
@@ -27,10 +28,9 @@ This repository is used to track the books I'm reading these days, powered by [B
 [![Practice](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DVHaSvQEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/14 "Practice by Guy Rundle completed in 1 year on February 2020")
 [![Dark Emu](https://images.weserv.nl/?url=https%3A%2F%2Ftse2.mm.bing.net%2Fth%3Fq%3DDark%2520Emu%2520by%2520Bruce%2520Pascoe%26w%3D256%26c%3D7%26rs%3D1%26p%3D0%26dpr%3D3%26pid%3D1.7%26mkt%3Den-IN%26adlt%3Dmoderate&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/13 "Dark Emu by Bruce Pascoe completed in 10 months on February 2020")
 
-### ⏭️ Want to Read (21)
+### ⏭️ Want to Read (20)
 
 [![Good Inside](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DTXJLEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/44 "Good Inside by Dr. Becky Kennedy completed in undefined on Invalid Date")
-[![Team Topologies](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DoFdRuAEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/43 "Team Topologies by Matthew Skelton, Manuel Pais completed in undefined on Invalid Date")
 [![The Missing README](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DM7UjEAAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/39 "The Missing README by Chris Riccomini, Dmitriy Ryaboy completed in undefined on Invalid Date")
 [![Engineering Management for the Rest of Us](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DsK9RzwEACAAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/37 "Engineering Management for the Rest of Us by Sarah Drasner completed in undefined on Invalid Date")
 [![Command and Control](https://images.weserv.nl/?url=http%3A%2F%2Fbooks.google.com%2Fbooks%2Fcontent%3Fid%3DlJ6JDQAAQBAJ%26printsec%3Dfrontcover%26img%3D1%26zoom%3D1%26edge%3Dcurl%26source%3Dgbs_api&w=128&h=196&fit=contain)](https://github.com/hammygoonan/books/issues/36 "Command and Control by Eric Schlosser completed in undefined on Invalid Date")
