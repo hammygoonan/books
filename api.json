@@ -25,8 +25,43 @@
     },
     "issueNumber": 48,
     "progressPercent": 0,
-    "state": "reading",
-    "startedAt": "2024-06-23T11:49:53.000Z"
+    "state": "completed",
+    "startedAt": "2024-06-23T11:49:53.000Z",
+    "completedAt": "2025-06-13T00:21:34.000Z",
+    "timeToComplete": 30630701000,
+    "timeToCompleteFormatted": "11 months"
+  },
+  {
+    "title": "Clean Code",
+    "authors": [
+      "Robert C. Martin"
+    ],
+    "publisher": "Pearson Education",
+    "publishedDate": "2009",
+    "description": "Looks at the principles and clean code, includes case studies showcasing the practices of writing clean code, and contains a list of heuristics and \"smells\" accumulated from the process of writing clean code.",
+    "image": "http://books.google.com/books/content?id=hjEFCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 4.5,
+    "ratingsCount": 10,
+    "categories": [
+      "Computers"
+    ],
+    "pageCount": 464,
+    "isbn10": "0132350882",
+    "isbn13": "9780132350884",
+    "googleBooks": {
+      "id": "hjEFCAAAQBAJ",
+      "preview": "http://books.google.com/books?id=hjEFCAAAQBAJ&printsec=frontcover&dq=intitle:Clean+Code+by+Robert+Martin&hl=&cd=2&source=gbs_api",
+      "info": "http://books.google.com/books?id=hjEFCAAAQBAJ&dq=intitle:Clean+Code+by+Robert+Martin&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Clean_Code.html?hl=&id=hjEFCAAAQBAJ"
+    },
+    "issueNumber": 2,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2023-01-11T02:50:57.000Z",
+    "completedAt": "2024-06-23T11:48:43.000Z",
+    "timeToComplete": 45737866000,
+    "timeToCompleteFormatted": "1 year"
   },
   {
     "title": "The Guns of August",
@@ -81,6 +116,40 @@
     "completedAt": "2024-06-23T11:29:20.000Z",
     "timeToComplete": 83000,
     "timeToCompleteFormatted": "1 minute"
+  },
+  {
+    "title": "Accelerate",
+    "authors": [
+      "Nicole Forsgren PhD",
+      "Jez Humble",
+      "Gene Kim"
+    ],
+    "publisher": "IT Revolution",
+    "publishedDate": "2018-03-27",
+    "description": "Winner of the Shingo Publication Award Accelerate your organization to win in the marketplace. How can we apply technology to drive business value? For years, we've been told that the performance of software delivery teams doesn't matter―that it can't provide a competitive advantage to our companies. Through four years of groundbreaking research to include data collected from the State of DevOps reports conducted with Puppet, Dr. Nicole Forsgren, Jez Humble, and Gene Kim set out to find a way to measure software delivery performance―and what drives it―using rigorous statistical methods. This book presents both the findings and the science behind that research, making the information accessible for readers to apply in their own organizations. Readers will discover how to measure the performance of their teams, and what capabilities they should invest in to drive higher performance. This book is ideal for management at every level.",
+    "image": "http://books.google.com/books/content?id=Kax-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
+    "language": "en",
+    "averageRating": 5,
+    "ratingsCount": 1,
+    "categories": [
+      "Business & Economics"
+    ],
+    "pageCount": 288,
+    "isbn10": "1942788355",
+    "isbn13": "9781942788355",
+    "googleBooks": {
+      "id": "Kax-DwAAQBAJ",
+      "preview": "http://books.google.com/books?id=Kax-DwAAQBAJ&printsec=frontcover&dq=intitle:Accelerate:+The+Science+of+Lean+Software+and+DevOps:+Building+and+Scaling+High+Performing+Technology+Organizations&hl=&cd=1&source=gbs_api",
+      "info": "https://play.google.com/store/books/details?id=Kax-DwAAQBAJ&source=gbs_api",
+      "canonical": "https://play.google.com/store/books/details?id=Kax-DwAAQBAJ"
+    },
+    "issueNumber": 42,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2024-01-31T03:52:33.000Z",
+    "completedAt": "2024-06-23T11:23:33.000Z",
+    "timeToComplete": 12468660000,
+    "timeToCompleteFormatted": "4 months"
   },
   {
     "title": "Good Inside",
@@ -138,40 +207,6 @@
     "startedAt": "2024-02-26T10:24:23.000Z"
   },
   {
-    "title": "Accelerate",
-    "authors": [
-      "Nicole Forsgren PhD",
-      "Jez Humble",
-      "Gene Kim"
-    ],
-    "publisher": "IT Revolution",
-    "publishedDate": "2018-03-27",
-    "description": "Winner of the Shingo Publication Award Accelerate your organization to win in the marketplace. How can we apply technology to drive business value? For years, we've been told that the performance of software delivery teams doesn't matter―that it can't provide a competitive advantage to our companies. Through four years of groundbreaking research to include data collected from the State of DevOps reports conducted with Puppet, Dr. Nicole Forsgren, Jez Humble, and Gene Kim set out to find a way to measure software delivery performance―and what drives it―using rigorous statistical methods. This book presents both the findings and the science behind that research, making the information accessible for readers to apply in their own organizations. Readers will discover how to measure the performance of their teams, and what capabilities they should invest in to drive higher performance. This book is ideal for management at every level.",
-    "image": "http://books.google.com/books/content?id=Kax-DwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 5,
-    "ratingsCount": 1,
-    "categories": [
-      "Business & Economics"
-    ],
-    "pageCount": 288,
-    "isbn10": "1942788355",
-    "isbn13": "9781942788355",
-    "googleBooks": {
-      "id": "Kax-DwAAQBAJ",
-      "preview": "http://books.google.com/books?id=Kax-DwAAQBAJ&printsec=frontcover&dq=intitle:Accelerate:+The+Science+of+Lean+Software+and+DevOps:+Building+and+Scaling+High+Performing+Technology+Organizations&hl=&cd=1&source=gbs_api",
-      "info": "https://play.google.com/store/books/details?id=Kax-DwAAQBAJ&source=gbs_api",
-      "canonical": "https://play.google.com/store/books/details?id=Kax-DwAAQBAJ"
-    },
-    "issueNumber": 42,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2024-01-31T03:52:33.000Z",
-    "completedAt": "2024-06-23T11:23:33.000Z",
-    "timeToComplete": 12468660000,
-    "timeToCompleteFormatted": "4 months"
-  },
-  {
     "title": "The Missing README",
     "authors": [
       "Chris Riccomini",
@@ -220,6 +255,36 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2023-11-19T22:24:06.000Z"
+  },
+  {
+    "title": "An Elegant Puzzle",
+    "authors": [
+      "Will Larson"
+    ],
+    "publisher": "Stripe Press",
+    "publishedDate": "2019-05-20",
+    "description": "A human-centric guide to solving complex problems in engineering management, from sizing teams to handling technical debt. There's a saying that people don't leave companies, they leave managers. Management is a key part of any organization, yet the discipline is often self-taught and unstructured. Getting to the good solutions for complex management challenges can make the difference between fulfillment and frustration for teams--and, ultimately, between the success and failure of companies. Will Larson's An Elegant Puzzle focuses on the particular challenges of engineering management--from sizing teams to handling technical debt to performing succession planning--and provides a path to the good solutions. Drawing from his experience at Digg, Uber, and Stripe, Larson has developed a thoughtful approach to engineering management for leaders of all levels at companies of all sizes. An Elegant Puzzle balances structured principles and human-centric thinking to help any leader create more effective and rewarding organizations for engineers to thrive in.",
+    "image": "http://books.google.com/books/content?id=2ZQrxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Business ethics"
+    ],
+    "pageCount": 0,
+    "isbn10": "1732265186",
+    "isbn13": "9781732265189",
+    "googleBooks": {
+      "id": "2ZQrxQEACAAJ",
+      "preview": "http://books.google.com/books?id=2ZQrxQEACAAJ&dq=intitle:An+Elegant+Puzzle:+Systems+of+Engineering+Management&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=2ZQrxQEACAAJ&dq=intitle:An+Elegant+Puzzle:+Systems+of+Engineering+Management&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/An_Elegant_Puzzle.html?hl=&id=2ZQrxQEACAAJ"
+    },
+    "issueNumber": 27,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2023-08-29T22:24:26.000Z",
+    "completedAt": "2023-11-08T20:44:52.000Z",
+    "timeToComplete": 6128426000,
+    "timeToCompleteFormatted": "2 months"
   },
   {
     "title": "Command and Control",
@@ -307,36 +372,6 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2023-08-29T22:27:56.000Z"
-  },
-  {
-    "title": "An Elegant Puzzle",
-    "authors": [
-      "Will Larson"
-    ],
-    "publisher": "Stripe Press",
-    "publishedDate": "2019-05-20",
-    "description": "A human-centric guide to solving complex problems in engineering management, from sizing teams to handling technical debt. There's a saying that people don't leave companies, they leave managers. Management is a key part of any organization, yet the discipline is often self-taught and unstructured. Getting to the good solutions for complex management challenges can make the difference between fulfillment and frustration for teams--and, ultimately, between the success and failure of companies. Will Larson's An Elegant Puzzle focuses on the particular challenges of engineering management--from sizing teams to handling technical debt to performing succession planning--and provides a path to the good solutions. Drawing from his experience at Digg, Uber, and Stripe, Larson has developed a thoughtful approach to engineering management for leaders of all levels at companies of all sizes. An Elegant Puzzle balances structured principles and human-centric thinking to help any leader create more effective and rewarding organizations for engineers to thrive in.",
-    "image": "http://books.google.com/books/content?id=2ZQrxQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Business ethics"
-    ],
-    "pageCount": 0,
-    "isbn10": "1732265186",
-    "isbn13": "9781732265189",
-    "googleBooks": {
-      "id": "2ZQrxQEACAAJ",
-      "preview": "http://books.google.com/books?id=2ZQrxQEACAAJ&dq=intitle:An+Elegant+Puzzle:+Systems+of+Engineering+Management&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=2ZQrxQEACAAJ&dq=intitle:An+Elegant+Puzzle:+Systems+of+Engineering+Management&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/An_Elegant_Puzzle.html?hl=&id=2ZQrxQEACAAJ"
-    },
-    "issueNumber": 27,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2023-08-29T22:24:26.000Z",
-    "completedAt": "2023-11-08T20:44:52.000Z",
-    "timeToComplete": 6128426000,
-    "timeToCompleteFormatted": "2 months"
   },
   {
     "title": "Patterns of Enterprise Application Architecture",
@@ -453,38 +488,6 @@
     "startedAt": "2023-01-11T10:50:50.000Z"
   },
   {
-    "title": "Clean Code",
-    "authors": [
-      "Robert C. Martin"
-    ],
-    "publisher": "Pearson Education",
-    "publishedDate": "2009",
-    "description": "Looks at the principles and clean code, includes case studies showcasing the practices of writing clean code, and contains a list of heuristics and \"smells\" accumulated from the process of writing clean code.",
-    "image": "http://books.google.com/books/content?id=hjEFCAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api",
-    "language": "en",
-    "averageRating": 4.5,
-    "ratingsCount": 10,
-    "categories": [
-      "Computers"
-    ],
-    "pageCount": 464,
-    "isbn10": "0132350882",
-    "isbn13": "9780132350884",
-    "googleBooks": {
-      "id": "hjEFCAAAQBAJ",
-      "preview": "http://books.google.com/books?id=hjEFCAAAQBAJ&printsec=frontcover&dq=intitle:Clean+Code+by+Robert+Martin&hl=&cd=2&source=gbs_api",
-      "info": "http://books.google.com/books?id=hjEFCAAAQBAJ&dq=intitle:Clean+Code+by+Robert+Martin&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Clean_Code.html?hl=&id=hjEFCAAAQBAJ"
-    },
-    "issueNumber": 2,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2023-01-11T02:50:57.000Z",
-    "completedAt": "2024-06-23T11:48:43.000Z",
-    "timeToComplete": 45737866000,
-    "timeToCompleteFormatted": "1 year"
-  },
-  {
     "title": "No-Drama Discipline",
     "authors": [
       "Daniel J. Siegel",
@@ -546,6 +549,67 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2020-09-10T00:00:00.000Z"
+  },
+  {
+    "title": "Practice",
+    "authors": [
+      "Guy Rundle"
+    ],
+    "publisher": "Black Incorporated",
+    "publishedDate": "2019-03-05",
+    "description": "Known for his wild wit and irreverent commentary, Guy Rundle is one of Australia's most virtuosic minds. Practicedistils his best writing on politics, culture, class and more. In it, Rundle roves the campaign trails of Obama, Palin and Trump; rides the Amtrak around a desolate America; bails up Bob Katter and Pauline Hanson; and excavates the deeper meanings of True Detective and Joy Division. Insightful and hilarious, Practicereveals Rundle as among Australia's sharpest and most entertaining minds, with a genuinely awe-inducing range and an utterly inimitable voice. There is only one Guy Rundle.",
+    "image": "http://books.google.com/books/content?id=VHaSvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
+    "language": "en",
+    "categories": [
+      "Political Science"
+    ],
+    "pageCount": 382,
+    "isbn10": "1760641316",
+    "isbn13": "9781760641313",
+    "googleBooks": {
+      "id": "VHaSvQEACAAJ",
+      "preview": "http://books.google.com/books?id=VHaSvQEACAAJ&dq=intitle:Practice+by+Guy+Rundle&hl=&cd=1&source=gbs_api",
+      "info": "http://books.google.com/books?id=VHaSvQEACAAJ&dq=intitle:Practice+by+Guy+Rundle&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Practice.html?hl=&id=VHaSvQEACAAJ"
+    },
+    "issueNumber": 14,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2019-02-06T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 32918400000,
+    "timeToCompleteFormatted": "1 year"
+  },
+  {
+    "title": "Dark Emu",
+    "authors": [
+      "Bruce Pascoe"
+    ],
+    "publishedDate": "2018",
+    "description": "Dark Emu argues for a reconsideration of the 'hunter-gatherer' tag for pre-colonial Aboriginal Australians and attempts to rebut the colonial myths that have worked to justify dispossession. Accomplished author Bruce Pascoe provides compelling evidence from the diaries of early explorers that suggests that systems of food production and land management have been blatantly understated in modern retellings of early Aboriginal history, and that a new look at Australia's past is required.",
+    "image": "https://tse2.mm.bing.net/th?q=Dark%20Emu%20by%20Bruce%20Pascoe&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
+    "language": "en",
+    "averageRating": 4,
+    "ratingsCount": 8,
+    "categories": [
+      "Aboriginal Australians"
+    ],
+    "pageCount": 309,
+    "isbn10": "0369332873",
+    "isbn13": "9780369332875",
+    "googleBooks": {
+      "id": "spWjzQEACAAJ",
+      "preview": "http://books.google.com/books?id=spWjzQEACAAJ&dq=intitle:Dark+Emu+by+Bruce+Pascoe&hl=&cd=3&source=gbs_api",
+      "info": "http://books.google.com/books?id=spWjzQEACAAJ&dq=intitle:Dark+Emu+by+Bruce+Pascoe&hl=&source=gbs_api",
+      "canonical": "https://books.google.com/books/about/Dark_Emu.html?hl=&id=spWjzQEACAAJ"
+    },
+    "issueNumber": 13,
+    "progressPercent": 0,
+    "state": "completed",
+    "startedAt": "2019-03-25T00:00:00.000Z",
+    "completedAt": "2020-02-22T00:00:00.000Z",
+    "timeToComplete": 28857600000,
+    "timeToCompleteFormatted": "10 months"
   },
   {
     "title": "The Age of Surveillance Capitalism",
@@ -631,67 +695,6 @@
     "progressPercent": 0,
     "state": "want-to-read",
     "startedAt": "2019-06-01T00:00:00.000Z"
-  },
-  {
-    "title": "Dark Emu",
-    "authors": [
-      "Bruce Pascoe"
-    ],
-    "publishedDate": "2018",
-    "description": "Dark Emu argues for a reconsideration of the 'hunter-gatherer' tag for pre-colonial Aboriginal Australians and attempts to rebut the colonial myths that have worked to justify dispossession. Accomplished author Bruce Pascoe provides compelling evidence from the diaries of early explorers that suggests that systems of food production and land management have been blatantly understated in modern retellings of early Aboriginal history, and that a new look at Australia's past is required.",
-    "image": "https://tse2.mm.bing.net/th?q=Dark%20Emu%20by%20Bruce%20Pascoe&w=256&c=7&rs=1&p=0&dpr=3&pid=1.7&mkt=en-IN&adlt=moderate",
-    "language": "en",
-    "averageRating": 4,
-    "ratingsCount": 8,
-    "categories": [
-      "Aboriginal Australians"
-    ],
-    "pageCount": 309,
-    "isbn10": "0369332873",
-    "isbn13": "9780369332875",
-    "googleBooks": {
-      "id": "spWjzQEACAAJ",
-      "preview": "http://books.google.com/books?id=spWjzQEACAAJ&dq=intitle:Dark+Emu+by+Bruce+Pascoe&hl=&cd=3&source=gbs_api",
-      "info": "http://books.google.com/books?id=spWjzQEACAAJ&dq=intitle:Dark+Emu+by+Bruce+Pascoe&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Dark_Emu.html?hl=&id=spWjzQEACAAJ"
-    },
-    "issueNumber": 13,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2019-03-25T00:00:00.000Z",
-    "completedAt": "2020-02-22T00:00:00.000Z",
-    "timeToComplete": 28857600000,
-    "timeToCompleteFormatted": "10 months"
-  },
-  {
-    "title": "Practice",
-    "authors": [
-      "Guy Rundle"
-    ],
-    "publisher": "Black Incorporated",
-    "publishedDate": "2019-03-05",
-    "description": "Known for his wild wit and irreverent commentary, Guy Rundle is one of Australia's most virtuosic minds. Practicedistils his best writing on politics, culture, class and more. In it, Rundle roves the campaign trails of Obama, Palin and Trump; rides the Amtrak around a desolate America; bails up Bob Katter and Pauline Hanson; and excavates the deeper meanings of True Detective and Joy Division. Insightful and hilarious, Practicereveals Rundle as among Australia's sharpest and most entertaining minds, with a genuinely awe-inducing range and an utterly inimitable voice. There is only one Guy Rundle.",
-    "image": "http://books.google.com/books/content?id=VHaSvQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api",
-    "language": "en",
-    "categories": [
-      "Political Science"
-    ],
-    "pageCount": 382,
-    "isbn10": "1760641316",
-    "isbn13": "9781760641313",
-    "googleBooks": {
-      "id": "VHaSvQEACAAJ",
-      "preview": "http://books.google.com/books?id=VHaSvQEACAAJ&dq=intitle:Practice+by+Guy+Rundle&hl=&cd=1&source=gbs_api",
-      "info": "http://books.google.com/books?id=VHaSvQEACAAJ&dq=intitle:Practice+by+Guy+Rundle&hl=&source=gbs_api",
-      "canonical": "https://books.google.com/books/about/Practice.html?hl=&id=VHaSvQEACAAJ"
-    },
-    "issueNumber": 14,
-    "progressPercent": 0,
-    "state": "completed",
-    "startedAt": "2019-02-06T00:00:00.000Z",
-    "completedAt": "2020-02-22T00:00:00.000Z",
-    "timeToComplete": 32918400000,
-    "timeToCompleteFormatted": "1 year"
   },
   {
     "title": "A Brief History of Equality",
